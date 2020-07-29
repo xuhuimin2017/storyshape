@@ -6,4 +6,8 @@
 
 #All the raw datasets are available from IMDB website (www.imdb.com), IMSDB website (www.imsdb.com), and the Gutenberg Project (www.gutenberg.org). 
 
+# If you are interested in this project, please email me at huiminxu1024@163.com.
+
+
+
 

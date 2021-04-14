@@ -2,7 +2,7 @@
 
 #Citation: Xu, H., Zhang, Z., Wu, L., & Wang, C. J. (2019). The Cinderella Complex: Word embeddings reveal gender stereotypes in movies and books. PloS one, 14(11), e0225385.
 
-#The processed datasets are available on https://www.dropbox.com/s/acs938pyxbe7ye8/data.zip?dl=0.
+#The processed datasets are available on https://www.dropbox.com/s/gzxp5qw0sx21oeq/data.zip?dl=0.
 
 #All the raw datasets are available from IMDB website (www.imdb.com), IMSDB website (www.imsdb.com), and the Gutenberg Project (www.gutenberg.org). 
 
